@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 855765851e4713b49aa6e189ac28e117
+timeCreated: 1490116525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ambulance_car
+    100004: ambulance_car_glass
+    100006: ambulance_car_sign
+    100008: Armature
+    100010: door_back_left
+    100012: door_back_right
+    100014: door_front_left
+    100016: door_front_right
+    100018: ladder
+    100020: mirror
+    100022: root_ground
+    100024: steering_wheel
+    100026: transmission
+    100028: vehicle
+    100030: wheel_back
+    100032: wheel_front
+    100034: wheel_front_left
+    100036: wheel_front_right
+    100038: windshield_wiper_left
+    100040: windshield_wiper_right
+    400000: //RootNode
+    400002: ambulance_car
+    400004: ambulance_car_glass
+    400006: ambulance_car_sign
+    400008: Armature
+    400010: door_back_left
+    400012: door_back_right
+    400014: door_front_left
+    400016: door_front_right
+    400018: ladder
+    400020: mirror
+    400022: root_ground
+    400024: steering_wheel
+    400026: transmission
+    400028: vehicle
+    400030: wheel_back
+    400032: wheel_front
+    400034: wheel_front_left
+    400036: wheel_front_right
+    400038: windshield_wiper_left
+    400040: windshield_wiper_right
+    4300000: ambulance_car_glass
+    4300002: ambulance_car
+    4300004: ambulance_car_sign
+    9500000: //RootNode
+    13700000: ambulance_car
+    13700002: ambulance_car_glass
+    13700004: ambulance_car_sign
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

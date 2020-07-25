@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DeathMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\tapMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\beforeTap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Delay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\objectPooler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="16" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\unity_projects\SimplePlatformer\Assets\Script\burgerController.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
